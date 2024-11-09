@@ -27,4 +27,3 @@ keyword matching.
 ![Recall and NDCG](uploads/screenshots/result1.png)
 ![SBERT Training and Validation Loss](uploads/screenshots/result2.png)
 
-# Ecommerce-With-Expert-System-For-Personalized-Shopping-Recommendations
